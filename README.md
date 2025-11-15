@@ -4,7 +4,7 @@ Framework completo para desenvolvimento de jogos de terror em primeira pessoa us
 
 ## 📚 Documentação
 
-Este projeto inclui documentação completa:
+Este projeto inclui documentação completa e profissional:
 
 - **📖 [README.md](README.md)** - Visão geral e documentação principal (você está aqui!)
 - **🚀 [QUICK_START.md](QUICK_START.md)** - Guia passo a passo para começar em 30 minutos
@@ -12,6 +12,9 @@ Este projeto inclui documentação completa:
 - **📖 [API_REFERENCE.md](API_REFERENCE.md)** - Referência completa de todas as APIs
 - **🏗️ [STRUCTURE.md](STRUCTURE.md)** - Arquitetura detalhada do framework
 - **📝 [EXAMPLES.md](EXAMPLES.md)** - Exemplos de código prontos para usar
+- **❓ [FAQ_AND_TROUBLESHOOTING.md](FAQ_AND_TROUBLESHOOTING.md)** - Perguntas frequentes e soluções de problemas
+
+> **💡 Novo no Unity ou em jogos de terror?** Comece pelo **[QUICK_START.md](QUICK_START.md)**!
 
 ## 📋 Índice
 
