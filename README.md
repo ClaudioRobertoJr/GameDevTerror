@@ -8,6 +8,7 @@ Este projeto inclui documentação completa e profissional:
 
 - **📖 [README.md](README.md)** - Visão geral e documentação principal (você está aqui!)
 - **🚀 [QUICK_START.md](QUICK_START.md)** - Guia passo a passo para começar em 30 minutos
+- **🎮👥 [COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)** - **NOVO!** Guia completo para criar jogo cooperativo com puzzles
 - **💡 [TIPS_AND_IMPROVEMENTS.md](TIPS_AND_IMPROVEMENTS.md)** - Dicas, otimizações e features avançadas
 - **📖 [API_REFERENCE.md](API_REFERENCE.md)** - Referência completa de todas as APIs
 - **🏗️ [STRUCTURE.md](STRUCTURE.md)** - Arquitetura detalhada do framework
@@ -15,6 +16,7 @@ Este projeto inclui documentação completa e profissional:
 - **❓ [FAQ_AND_TROUBLESHOOTING.md](FAQ_AND_TROUBLESHOOTING.md)** - Perguntas frequentes e soluções de problemas
 
 > **💡 Novo no Unity ou em jogos de terror?** Comece pelo **[QUICK_START.md](QUICK_START.md)**!
+> **🎮 Quer fazer um jogo cooperativo com puzzles?** Veja o **[COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)**!
 
 ## 📋 Índice
 
@@ -450,6 +452,20 @@ public class MyInteractable : MonoBehaviour, IInteractable
 ---
 
 ## 🎯 Próximos Passos Sugeridos
+
+### 🌟 Multiplayer Cooperativo + Puzzles (RECOMENDADO)
+
+**Quer transformar isso em um jogo cooperativo com puzzles?**
+Veja o guia completo: **[COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)**
+
+Inclui:
+- Sistema multiplayer completo com Unity Netcode
+- Framework de puzzles modular
+- Puzzles cooperativos (2-4 jogadores)
+- Sistema de revive
+- Balanceamento solo vs co-op
+- Exemplos práticos de código
+- Design de terror em co-op
 
 ### Sistemas Adicionais
 
