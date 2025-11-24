@@ -22,9 +22,17 @@ Este projeto inclui documentação completa e profissional:
 - **🗺️ [COOP_ROADMAP.md](COOP_ROADMAP.md)** - Roadmap detalhado de 8-12 semanas para implementação
 - **🔧 [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)** - Guia passo a passo de integração de sistemas
 
+### ⚡ Quick Reference
+- **📋 [QUICKREF.md](QUICKREF.md)** - Cheat sheet com snippets e comandos rápidos
+- **📚 [RESOURCES.md](RESOURCES.md)** - Links organizados (repos, tutoriais, assets, comunidades)
+- **📖 [GLOSSARY.md](GLOSSARY.md)** - Glossário técnico completo (networking, IA, patterns)
+- **📊 [BENCHMARKS.md](BENCHMARKS.md)** - Performance targets e comparações
+
 > **💡 Novo no Unity ou em jogos de terror?** Comece pelo **[QUICK_START.md](QUICK_START.md)**!
 >
 > **🎯 Quer criar um jogo cooperativo?** Veja o **[ADVANCED_TECHNOLOGIES.md](ADVANCED_TECHNOLOGIES.md)** e depois siga o **[COOP_ROADMAP.md](COOP_ROADMAP.md)**!
+>
+> **⚡ Precisa de referência rápida?** Consulte **[QUICKREF.md](QUICKREF.md)** para snippets e **[GLOSSARY.md](GLOSSARY.md)** para termos!
 
 ## 📋 Índice
 
