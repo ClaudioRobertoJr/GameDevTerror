@@ -6,6 +6,7 @@ Framework completo para desenvolvimento de jogos de terror em primeira pessoa us
 
 Este projeto inclui documentação completa e profissional:
 
+### Documentação Base
 - **📖 [README.md](README.md)** - Visão geral e documentação principal (você está aqui!)
 - **🚀 [QUICK_START.md](QUICK_START.md)** - Guia passo a passo para começar em 30 minutos
 - **🎮👥 [COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)** - **NOVO!** Guia completo para criar jogo cooperativo com puzzles
@@ -14,6 +15,19 @@ Este projeto inclui documentação completa e profissional:
 - **🏗️ [STRUCTURE.md](STRUCTURE.md)** - Arquitetura detalhada do framework
 - **📝 [EXAMPLES.md](EXAMPLES.md)** - Exemplos de código prontos para usar
 - **❓ [FAQ_AND_TROUBLESHOOTING.md](FAQ_AND_TROUBLESHOOTING.md)** - Perguntas frequentes e soluções de problemas
+
+### 🚀 Documentação Avançada - Horror Cooperativo
+- **🌟 [ADVANCED_TECHNOLOGIES.md](ADVANCED_TECHNOLOGIES.md)** - Tecnologias avançadas (GOAP, BT, Utility AI, Octrees, Event Bus)
+- **🌐 [MULTIPLAYER_ARCHITECTURE.md](MULTIPLAYER_ARCHITECTURE.md)** - Arquitetura completa para modo cooperativo com Netcode
+- **🤖 [ADVANCED_AI_SYSTEMS.md](ADVANCED_AI_SYSTEMS.md)** - Sistemas de IA avançados com exemplos completos
+- **🗺️ [COOP_ROADMAP.md](COOP_ROADMAP.md)** - Roadmap detalhado de 8-12 semanas para implementação
+- **🔧 [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)** - Guia passo a passo de integração de sistemas
+
+### ⚡ Quick Reference
+- **📋 [QUICKREF.md](QUICKREF.md)** - Cheat sheet com snippets e comandos rápidos
+- **📚 [RESOURCES.md](RESOURCES.md)** - Links organizados (repos, tutoriais, assets, comunidades)
+- **📖 [GLOSSARY.md](GLOSSARY.md)** - Glossário técnico completo (networking, IA, patterns)
+- **📊 [BENCHMARKS.md](BENCHMARKS.md)** - Performance targets e comparações
 
 > **💡 Novo no Unity ou em jogos de terror?** Comece pelo **[QUICK_START.md](QUICK_START.md)**!
 > **🎮 Quer fazer um jogo cooperativo com puzzles?** Veja o **[COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)**!
