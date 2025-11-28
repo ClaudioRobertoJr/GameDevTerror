@@ -6,10 +6,24 @@ Framework completo para desenvolvimento de jogos de terror em primeira pessoa us
 
 Este projeto inclui documentação completa e profissional:
 
+### 🔥 **NOVO!** Multiplayer FPS Horror (4-5 Jogadores)
+- **⚡ [MULTIPLAYER_QUICKSTART.md](MULTIPLAYER_QUICKSTART.md)** - **COMECE AQUI!** Setup rápido em 5 minutos
+- **🎮 [MULTIPLAYER_FPS_HORROR_GUIDE.md](MULTIPLAYER_FPS_HORROR_GUIDE.md)** - **GUIA COMPLETO Parte 1**
+  - Stack tecnológico moderno (Unity 2022.3 LTS)
+  - New Input System
+  - Sistema de Lobby (Unity Gaming Services)
+  - Relay (sem port forwarding)
+- **🎯 [MULTIPLAYER_FPS_HORROR_GUIDE_PART2.md](MULTIPLAYER_FPS_HORROR_GUIDE_PART2.md)** - **GUIA COMPLETO Parte 2**
+  - Player Controller Multiplayer
+  - Sistema de Inimigos em Rede
+  - IA Avançada (GOAP)
+  - Match System
+  - Roadmap de 12 semanas
+
 ### Documentação Base
 - **📖 [README.md](README.md)** - Visão geral e documentação principal (você está aqui!)
-- **🚀 [QUICK_START.md](QUICK_START.md)** - Guia passo a passo para começar em 30 minutos
-- **🎮👥 [COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)** - **NOVO!** Guia completo para criar jogo cooperativo com puzzles
+- **🚀 [QUICK_START.md](QUICK_START.md)** - Guia passo a passo para começar em 30 minutos (single player)
+- **🎮👥 [COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)** - Guia completo para criar jogo cooperativo com puzzles
 - **💡 [TIPS_AND_IMPROVEMENTS.md](TIPS_AND_IMPROVEMENTS.md)** - Dicas, otimizações e features avançadas
 - **📖 [API_REFERENCE.md](API_REFERENCE.md)** - Referência completa de todas as APIs
 - **🏗️ [STRUCTURE.md](STRUCTURE.md)** - Arquitetura detalhada do framework
@@ -29,6 +43,7 @@ Este projeto inclui documentação completa e profissional:
 - **📖 [GLOSSARY.md](GLOSSARY.md)** - Glossário técnico completo (networking, IA, patterns)
 - **📊 [BENCHMARKS.md](BENCHMARKS.md)** - Performance targets e comparações
 
+> **🔥 Quer fazer um FPS Horror Multiplayer 4-5 jogadores?** Comece pelo **[MULTIPLAYER_QUICKSTART.md](MULTIPLAYER_QUICKSTART.md)**!
 > **💡 Novo no Unity ou em jogos de terror?** Comece pelo **[QUICK_START.md](QUICK_START.md)**!
 > **🎮 Quer fazer um jogo cooperativo com puzzles?** Veja o **[COOP_PUZZLE_GAME_GUIDE.md](COOP_PUZZLE_GAME_GUIDE.md)**!
 
