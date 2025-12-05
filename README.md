@@ -6,6 +6,20 @@ Framework completo para desenvolvimento de jogos de terror em primeira pessoa us
 
 Este projeto inclui documentação completa e profissional:
 
+### 🔥🔥 **NOVÍSSIMO!** Survival Horror Multiplayer/Solo (1-5 Jogadores)
+- **🏕️ [SURVIVAL_HORROR_GAME_DESIGN.md](SURVIVAL_HORROR_GAME_DESIGN.md)** - **GAME DESIGN COMPLETO!**
+  - Jogo de sobrevivência na floresta (7 dias)
+  - Sistema de construção de base
+  - Sistema de sobrevivência (fome, sede, temperatura, sanidade)
+  - Ciclo dia/noite dinâmico
+  - Ondas de inimigos nas noites
+  - Balanceamento automático solo vs multiplayer
+- **🛠️ [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - **GUIA DE IMPLEMENTAÇÃO**
+  - Setup passo a passo
+  - Integração de todos os sistemas
+  - Testing e troubleshooting
+  - Código pronto para usar
+
 ### 🔥 **NOVO!** Multiplayer FPS Horror (4-5 Jogadores)
 - **⚡ [MULTIPLAYER_QUICKSTART.md](MULTIPLAYER_QUICKSTART.md)** - **COMECE AQUI!** Setup rápido em 5 minutos
 - **🎮 [MULTIPLAYER_FPS_HORROR_GUIDE.md](MULTIPLAYER_FPS_HORROR_GUIDE.md)** - **GUIA COMPLETO Parte 1**
